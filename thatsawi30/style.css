@@ -1,0 +1,42 @@
+img {
+    height: 150px;
+  }
+  
+  #id {
+    
+    color: #4fb6c9;
+  
+  }
+  
+  .class {
+    
+    color: #3388c0;
+  
+  }
+  
+  body {
+    background-color: #346f97;
+      color: #9641db;
+  
+  }
+  
+  h1 {
+  
+    color: #4fc4c4;
+  }
+  
+  h3 {
+   
+    color: #45998e;
+  }
+  
+  p {
+  
+    color: #47aab8;
+  }
+  
+  hr{color:#46ced8;
+    border-style: none;
+    border-top-style:dotted;
+    border-width: 15px;
+    width: 30%;}
